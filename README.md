@@ -1,6 +1,7 @@
 # Fortnite-Offsets-Updated
 
-  uintptr_t GObjects = 0xB5BC760;
+  uintptr_t GObjects = 0xB5BC760;\n
+  
     uintptr_t UWorld = 0xB78BC30;
     uintptr_t Levels = 0x148;
     uintptr_t PersistentLevel = 0x30;
